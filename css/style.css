@@ -8,5 +8,9 @@ body {
   color: aqua;
   background-color: blueviolet;
 }
-
+img:hover {
+  /* opacity: 0.6; */
+  filter:brightness(3);
+  transition:  1s;
+}
 
